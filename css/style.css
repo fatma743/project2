@@ -282,6 +282,9 @@ nav ul li:hover .mega{
     nav ul{
         display: none;
     }
+    nav .icons{
+        display: none;
+    }
     nav .call{
         display: none
     }
@@ -861,12 +864,12 @@ width: 100%;
 }
 @media (max-width:340px){
     .two .content p{
-    font-size: 15px;
+    font-size: 13px;
      line-height: 1.5;
      max-width: max-content;
 }
 .two .content h2{
-    font-size: 20px;
+    font-size: 17px;
 }
 .two .container .about-01 img{
    width: 280px;
@@ -1111,7 +1114,7 @@ background-color: transparent;
 }
 @media (max-width:340px) {
     .three .container .women .slide ul li a{
-       width: 280px;
+       width: 250px;
      
     }
     .three .container .care{
@@ -2115,7 +2118,7 @@ height: 60px;
         font-size: 20px;
     }
     .twelve .container .app img{
-        width: 290px;
+        width: 250px;
     }
     .twelve .container .content .stores img{
         width: 120px;
